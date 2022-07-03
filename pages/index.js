@@ -8,6 +8,8 @@ export default function Home() {
       <h1>/pages/index.js</h1>
       <ul>
         <li><a href="/sub">/pages/sub/index.js</a></li>
+        <li><a href="/sub/about">/pages/sub/about.js</a></li>
+          
       </ul>
     </div>
   )
